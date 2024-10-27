@@ -1,1 +1,1 @@
-this one log builder is not yet complete kütüphaneler (flask,python,sqlalchemy)
+this one log builder is not yet complete libraries (flask, python, sqlalchemy) It is working with VSC (Visual Studio Code).
