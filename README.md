@@ -1,1 +1,1 @@
-this one log builder is not yet complete.
+this one log builder is not yet complete kütüphaneler (flask,python,sqlalchemy)
